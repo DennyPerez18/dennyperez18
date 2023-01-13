@@ -26,4 +26,4 @@ Es un proyecto en el que buscamos colaborar en la comunidad hispanohablante a tr
 Estamos abiertos a la colaboración de todas las personas de la comunidad, que esten interesadas en compartir conocimiento en Español de manera voluntaria.
 
 <br>
-<img align="center" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
