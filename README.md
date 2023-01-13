@@ -24,3 +24,5 @@ I'm a software QA Analyst  who is passionate about building communities and empo
 Es un proyecto en el que buscamos colaborar en la comunidad hispanohablante a través de material educativo, eventos como workshops, meetups y conferencias, así como también noticias de actualidad alrededor de las comunidades de tecnoligía Git y GitHub.
 
 Estamos abiertos a la colaboración de todas las personas de la comunidad, que esten interesadas en compartir conocimiento en Español de manera voluntaria.
+
+[](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
