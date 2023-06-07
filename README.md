@@ -13,7 +13,7 @@ I'm a software QA Analyst  who is passionate about building communities and empo
 * [Twitter](https://twitter.com/dennyperez18)
 * [LinkedIn](https://www.linkedin.com/in/dennyperez18/)
 * [Website](https://dennyperez.dev/)
-* [Work Email](denny.perez.dev@gmail.com)
+* [Work Email](denny.perez23@gmail.com)
 
 ## Learn more about my communities:
 
