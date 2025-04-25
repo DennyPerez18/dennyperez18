@@ -36,12 +36,12 @@ Como miembro del Board de Directores de la Python Software Foundation (PSF) desd
 
 ### Casi Viernes con PyLadies
 
-![alt text](assets/Escuelita_header.png "Escuelita Banner")
+![alt text](<assets/Casi Viernes con PyLadiesB.png> "Casi Viernes Banner")
 
 Casi Viernes con PyLadies es un streaming bi-semanal dedicado a explorar cómo crear y fortalecer comunidades de mujeres en torno al lenguaje de programación Python. Esta iniciativa busca responder todas las dudas sobre cómo comenzar capítulos de PyLadies y los procesos necesarios para mantenerlos activos. Es un espacio para socializar, compartir experiencias y aprender más sobre la comunidad global de PyLadies. ¡Te invitamos a unirte y compartir experiencias en esta comunidad!
 
 ### Women Techmakers Using Python & GitHub
 
-![alt text](assets/Escuelita_header.png "Escuelita Banner")
+![alt text](<assets/Women Techmakers Using.png> "Women Techmakers Banner")
 
 Como Women Techmakers Ambassador, lancé esta iniciativa para crear espacios donde mujeres del ámbito tecnológico, especialmente de las comunidades de Python y GitHub, puedan compartir sus conocimientos. A través de eventos y actividades, promovemos el aprendizaje, la colaboración y la visibilidad de mujeres en la tecnología, inspirando a más personas a unirse y crecer en estas comunidades. Si deseas participar compartiendo conocimientos, completa este formulario.
