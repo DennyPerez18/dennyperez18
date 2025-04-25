@@ -15,7 +15,7 @@ I'm a software QA Analyst  who is passionate about building communities and empo
 * [Website](https://dennyperez.dev/)
 * [Work Email](denny.perez23@gmail.com)
 
-## Learn more about my communities:
+## Projects:
 
 ### La Escuelita de GitHub
 
@@ -27,3 +27,21 @@ Estamos abiertos a la colaboración de todas las personas de la comunidad, que e
 
 <br>
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
+
+### PSF Advocacy Focus
+
+![alt text](assets/Escuelita_header.png "Escuelita Banner")
+
+Como miembro del Board de Directores de la Python Software Foundation (PSF) desde 2023, estoy comprometida a difundir información valiosa para la comunidad. Este proyecto ofrece un espacio accesible para compartir contenido relevante sobre la PSF, destacando a las personas detrás de su impacto, las comunidades que la integran y los recursos que ofrece. A través de historias inspiradoras y contenido informativo, buscamos fortalecer las conexiones dentro de la comunidad global de Python, promoviendo la colaboración y el acceso a oportunidades que enriquecen el ecosistema de Python.
+
+### Casi Viernes con PyLadies
+
+![alt text](assets/Escuelita_header.png "Escuelita Banner")
+
+Casi Viernes con PyLadies es un streaming bi-semanal dedicado a explorar cómo crear y fortalecer comunidades de mujeres en torno al lenguaje de programación Python. Esta iniciativa busca responder todas las dudas sobre cómo comenzar capítulos de PyLadies y los procesos necesarios para mantenerlos activos. Es un espacio para socializar, compartir experiencias y aprender más sobre la comunidad global de PyLadies. ¡Te invitamos a unirte y compartir experiencias en esta comunidad!
+
+### Women Techmakers Using Python & GitHub
+
+![alt text](assets/Escuelita_header.png "Escuelita Banner")
+
+Como Women Techmakers Ambassador, lancé esta iniciativa para crear espacios donde mujeres del ámbito tecnológico, especialmente de las comunidades de Python y GitHub, puedan compartir sus conocimientos. A través de eventos y actividades, promovemos el aprendizaje, la colaboración y la visibilidad de mujeres en la tecnología, inspirando a más personas a unirse y crecer en estas comunidades. Si deseas participar compartiendo conocimientos, completa este formulario.
